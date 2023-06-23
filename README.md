@@ -1,3 +1,3 @@
 # G-MCDA
-Scripts of G-MCDA tool hosted at www.prajal.org
+Scripts of G-MCDA tool hosted at http://prajal.org
 
